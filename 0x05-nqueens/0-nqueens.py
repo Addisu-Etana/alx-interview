@@ -42,3 +42,6 @@ def solve(n):
 
 
 solve(n)
+:%d
+
+
